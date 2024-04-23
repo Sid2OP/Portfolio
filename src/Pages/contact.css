@@ -1,0 +1,12 @@
+.header{
+   /* align-content: center; */
+   margin-left: 500px;
+     max-width: 600px; /* Set width for the form */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.h1{
+    padding-bottom: 80px;
+    margin-top: 0px;
+}
